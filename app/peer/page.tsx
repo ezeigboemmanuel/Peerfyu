@@ -3,7 +3,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>
+    <div className='px-4'>
         <div className='max-w-xl mx-auto'>
             <h1 className='font-bold text-xl'>Peer to Peer Cross chain </h1>
             <p>Peer to peer cross chain with brands token, 

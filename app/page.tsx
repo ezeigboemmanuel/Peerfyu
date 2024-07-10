@@ -4,7 +4,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>
+    <div className='px-4'>
 
       <div className='max-w-3xl mx-auto pt-20'>
         <h1 className='text-3xl font-bold'>Put your funds to work</h1>

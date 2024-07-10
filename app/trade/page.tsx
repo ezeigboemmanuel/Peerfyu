@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const page = () => {
   return (
-    <div className="flex justify-center items-center flex-col text-center max-w-3xl mx-auto">
+    <div className="flex justify-center items-center flex-col text-center max-w-3xl mx-auto px-4">
       <div className="flex space-x-4 items-center">
         <Image src={Enca} alt="encounter" />
         <div>
